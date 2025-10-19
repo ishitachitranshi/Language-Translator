@@ -1,3 +1,10 @@
+/* 
+  Copyright © 2025 Ishita Chitranshi. 
+  All rights reserved. 
+  This CSS file is part of the Language Translator project.
+*/
+
+
 const dropdowns = document.querySelectorAll(".dropdown-container"),
   inputLanguageDropdown = document.querySelector("#input-language"),
   outputLanguageDropdown = document.querySelector("#output-language");
